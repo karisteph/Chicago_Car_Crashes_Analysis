@@ -1,0 +1,9 @@
+# Ignore all ipython notebook checkpoints in repository #
+
+.ipynb_checkpoints
+
+
+# Ignore files that end with .csv beacause the large dataset stored #
+# inside these files take up more computational resources and time #
+
+*.csv
