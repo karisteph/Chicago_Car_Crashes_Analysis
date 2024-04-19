@@ -106,7 +106,7 @@ Please review our full analysis in the jupyter notebook [Chicago Car Crashes Ana
 
 Refer to our [Presentation](https://docs.google.com/presentation/d/1ckk2djo9aRBG1i314E5EMvmnY5OmWTe6D2UCEkn9pOk/edit#slide=id.p)
 
-Note: The complete dataset used is for this project is available upon request. Due to its large size our team decided to exclude the entire dataset from this repository. To enhance efficiency, specifying specific columns for importation for each dataset reduces processing time and minimizes the use of computational resources.
+Note: The complete dataset used for this project is available upon request. Due to its large size our team decided to exclude the entire dataset from this repository. To enhance efficiency, specifying specific columns for importation for each dataset reduces processing time and minimizes the use of computational resources.
 
 
 ## Contributors
