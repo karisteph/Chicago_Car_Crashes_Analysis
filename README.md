@@ -118,7 +118,10 @@ Note: The complete dataset used is for this project is available upon request. D
 ## Repository Structure
 ```
 |— README.md                                                 <- The top-level README for reviewers of this project
-|— Chicago_Car_Crashes_Analysis.ipynb                        <- Interactive computing environment including analysis in Jupyter                                                                     notebook
+|— Car_Crashes_Analysis_Repo.pdf                             <- PDF version of repository
+|— Car_Crashes_Analysis_Presentation.pdf                     <- PDF version of project presentation
+|— Car_Crashes_Analysis.ipynb                                <- Interactive computing environment including analysis in Jupyter                                                                     notebook
+|— Chicago_Car_Crashes_Analysis - Jupyter Notebook.ipynb     <- PDF version of jupyter notebook
 |— .gitignore                                                <- Exclude listed files, mainly '.csv'
 |— Data                                                      <- Geometry files
     |— Beat.cpg
@@ -132,4 +135,3 @@ Note: The complete dataset used is for this project is available upon request. D
     |— SD_geo.prj
     |— SD_geo.shp
     |— SD_geo.shx                                    
-|— presentation.pdf                                          <- PDF version of project presentation
